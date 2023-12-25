@@ -1,2 +1,2 @@
 # IBOV
-Análise de rendimento do mercado de ações
+Simples análise temporal dos rendimentos do mercado de ações.
